@@ -11,6 +11,7 @@ scripts = [
     "example_http_check.py",
     "example_port_check.py",
     "example_header_check.py",
+    "blossom_http_check.py",
 ]
 
 if __name__ == "__main__":

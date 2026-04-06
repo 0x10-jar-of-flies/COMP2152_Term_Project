@@ -2,13 +2,13 @@
 
 ## Team Name
 <!-- Replace with your team name -->
-Team _______
+Team 0x10-jar-of-flies
 
 ## Team Members
 
 | Member | Vulnerability Found | Branch Name |
 |--------|-------------------|-------------|
-| _______ | _______ | _______ |
+| Blossom Babalola | No HTTPS redirect + missing HSTS | blossom_http_check |
 | _______ | _______ | _______ |
 | _______ | _______ | _______ |
 
