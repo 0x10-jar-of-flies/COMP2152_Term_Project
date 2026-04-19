@@ -12,6 +12,7 @@ scripts = [
     "example_port_check.py",
     "example_header_check.py",
     "blossom_http_check.py",
+    "sofia_admin__access.py",
 ]
 
 if __name__ == "__main__":

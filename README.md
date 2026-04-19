@@ -13,6 +13,8 @@ Team 0x10-jar-of-flies
 | ---------------- | -------------------------------- | ------------------ |
 | Blossom Babalola | No HTTPS redirect + missing HSTS | blossom_http_check |
 | Akinwunmi Eludoyin | Exposed backup file accessible without authentication | akin_backup_check |
+| Sofia Janik      | Publicly accessible admin panel  | sofia_admin_access |
+| Ben Morrison | redis.0x10.cloud port 6379 | ben_morrison_101572409 |
 | _______          | _______                          | _______            |
 
 
@@ -20,9 +22,9 @@ Team 0x10-jar-of-flies
 
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
-- Member 1: [https://youtu.be/3ORQ10fd04w](https://youtu.be/3ORQ10fd04w)
-- Member 2: (Akinwunmi Eludoyin)
-- Member 3: 
+- Blossom Babalola: [https://youtu.be/3ORQ10fd04w](https://youtu.be/3ORQ10fd04w)
+- Sofia Janik: https://youtu.be/uEnMj4duqy0
+- Ben Morrison: https://youtu.be/OykWIFIxGSE
 
 ## Target
 
