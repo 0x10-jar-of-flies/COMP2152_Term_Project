@@ -23,7 +23,7 @@ Each team member records a short video (max 3 minutes) explaining their vulnerab
 
 - Blossom Babalola: [https://youtu.be/3ORQ10fd04w](https://youtu.be/3ORQ10fd04w)
 - Sofia Janik: https://youtu.be/uEnMj4duqy0
-- Member 3: 
+- Ben Morrison: https://youtu.be/OykWIFIxGSE
 
 ## Target
 
