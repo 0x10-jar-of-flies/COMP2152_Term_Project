@@ -12,6 +12,7 @@ Team 0x10-jar-of-flies
 | Member           | Vulnerability Found              | Branch Name        |
 | ---------------- | -------------------------------- | ------------------ |
 | Blossom Babalola | No HTTPS redirect + missing HSTS | blossom_http_check |
+| Akinwunmi Eludoyin | Exposed backup file accessible without authentication | akin_backup_check |
 | Sofia Janik      | Publicly accessible admin panel  | sofia_admin_access |
 | Ben Morrison | redis.0x10.cloud port 6379 | ben_morrison_101572409 |
 | _______          | _______                          | _______            |
