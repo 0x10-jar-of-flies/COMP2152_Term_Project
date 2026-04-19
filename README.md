@@ -21,7 +21,7 @@ Team 0x10-jar-of-flies
 Each team member records a short video (max 3 minutes) explaining their vulnerability. Add your YouTube links below:
 
 - Blossom Babalola: [https://youtu.be/3ORQ10fd04w](https://youtu.be/3ORQ10fd04w)
-- Sofia Janik: [https://youtu.be/uEnMj4duqy0]
+- Sofia Janik: https://youtu.be/uEnMj4duqy0
 - Member 3: 
 
 ## Target
